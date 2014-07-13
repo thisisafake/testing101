@@ -8,3 +8,4 @@ If we add, that's ok. What if do checkout? I just screwed up last time, didn't k
 Then we add not yet make a commit, then we edit again, what happens?
 There would be two version of that file. One is waiting to be committed, one is wating to be added to the cache.
 If we do the add then git will override to the cache, which is waiting for commiting.
+lets change a file that was already tracked
